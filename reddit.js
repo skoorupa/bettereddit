@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bettereddit
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/skoorupa
+// @version      0.2
 // @description  we did it
 // @author       skoorupa
 // @match        https://www.reddit.com/*
